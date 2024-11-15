@@ -160,16 +160,16 @@ MONGODB_URI = "mongodb+srv://<username>:<password_here>@<database_name>.injtshl.
 
 1. **Educational Features**
 
-1. Interactive tutorials
-1. Code challenges
-1. Learning paths
-1. Achievement system
+   1. Interactive tutorials
+   2. Code challenges
+   3. Learning paths
+   4. Achievement system
 
-1. **Community Features**
+2. **Community Features**
 
-1. Public code sessions
-1. Knowledge sharing forum
-1. Expert mentorship
+   1. Public code sessions
+   2. Knowledge sharing forum
+   3. Expert mentorship
 
 ## Business Model
 
@@ -177,26 +177,26 @@ MONGODB_URI = "mongodb+srv://<username>:<password_here>@<database_name>.injtshl.
 
 1. **Free Tier**
 
-1. Basic collaboration features
-1. Limited concurrent users
-1. Standard compilation options
-1. Community support
+   1. Basic collaboration features
+   2. Limited concurrent users
+   3. Standard compilation options
+   4. Community support
 
 1. **Professional Tier**
 
-1. Advanced collaboration tools
-1. Unlimited users
-1. Priority compilation
-1. Extended session history
-1. Premium support
+   1. Advanced collaboration tools
+   2. Unlimited users
+   3. Priority compilation
+   4. Extended session history
+   5. Premium support
 
 1. **Enterprise Tier**
 
-1. Custom deployment
-1. Advanced security features
-1. API access
-1. Dedicated support
-1. Usage analytics
+   1. Custom deployment
+   2. Advanced security features
+   3. API access
+   4. Dedicated support
+   5. Usage analytics
 
 ### Revenue Streams
 
